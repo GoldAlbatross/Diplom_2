@@ -1,0 +1,56 @@
+{
+  "uid" : "3a6edf1091043aea",
+  "name" : "createOrderWithoutIngredients",
+  "fullName" : "TestCreateOrder.createOrderWithoutIngredients",
+  "historyId" : "9e00cb98cf11bdd3253aecd6184fa05e",
+  "time" : {
+    "start" : 1739722720389,
+    "stop" : 1739722722280,
+    "duration" : 1891
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "TestCreateOrder"
+  }, {
+    "name" : "testMethod",
+    "value" : "createOrderWithoutIngredients"
+  }, {
+    "name" : "suite",
+    "value" : "TestCreateOrder"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-G9E0ME1"
+  }, {
+    "name" : "thread",
+    "value" : "7096@DESKTOP-G9E0ME1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a6edf1091043aea.json",
+  "parameterValues" : [ ]
+}

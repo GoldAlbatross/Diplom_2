@@ -1,4 +1,10 @@
-target/
+target/*
+
+!target/allure-results/
+!target/allure-reports/
+!target/site/
+
+.allure
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/

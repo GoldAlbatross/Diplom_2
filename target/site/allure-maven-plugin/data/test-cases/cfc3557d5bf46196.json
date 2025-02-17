@@ -1,0 +1,56 @@
+{
+  "uid" : "cfc3557d5bf46196",
+  "name" : "changeUserDataWithAuthorization[2]",
+  "fullName" : "TestChangeUserData.changeUserDataWithAuthorization[2]",
+  "historyId" : "b8937688de4fac5a48759ff1c3b05ab5",
+  "time" : {
+    "start" : 1739722714050,
+    "stop" : 1739722715592,
+    "duration" : 1542
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "TestChangeUserData"
+  }, {
+    "name" : "testMethod",
+    "value" : "changeUserDataWithAuthorization[2]"
+  }, {
+    "name" : "suite",
+    "value" : "TestChangeUserData"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-G9E0ME1"
+  }, {
+    "name" : "thread",
+    "value" : "7096@DESKTOP-G9E0ME1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfc3557d5bf46196.json",
+  "parameterValues" : [ ]
+}
