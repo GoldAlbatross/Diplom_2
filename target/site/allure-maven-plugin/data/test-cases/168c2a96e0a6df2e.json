@@ -1,0 +1,56 @@
+{
+  "uid" : "168c2a96e0a6df2e",
+  "name" : "createOrderWithAuthorization",
+  "fullName" : "TestCreateOrder.createOrderWithAuthorization",
+  "historyId" : "e774612511d6851602bd36cc38c7fc03",
+  "time" : {
+    "start" : 1739722722284,
+    "stop" : 1739722726346,
+    "duration" : 4062
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "TestCreateOrder"
+  }, {
+    "name" : "testMethod",
+    "value" : "createOrderWithAuthorization"
+  }, {
+    "name" : "suite",
+    "value" : "TestCreateOrder"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-G9E0ME1"
+  }, {
+    "name" : "thread",
+    "value" : "7096@DESKTOP-G9E0ME1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "168c2a96e0a6df2e.json",
+  "parameterValues" : [ ]
+}

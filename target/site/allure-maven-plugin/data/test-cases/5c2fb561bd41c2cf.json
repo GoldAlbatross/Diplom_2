@@ -1,0 +1,56 @@
+{
+  "uid" : "5c2fb561bd41c2cf",
+  "name" : "createUserWithoutPassword",
+  "fullName" : "TestCreateRequestUserData.createUserWithoutPassword",
+  "historyId" : "19a223e108508d46f635839e449ab206",
+  "time" : {
+    "start" : 1739722727417,
+    "stop" : 1739722727729,
+    "duration" : 312
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "TestCreateRequestUserData"
+  }, {
+    "name" : "testMethod",
+    "value" : "createUserWithoutPassword"
+  }, {
+    "name" : "suite",
+    "value" : "TestCreateRequestUserData"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-G9E0ME1"
+  }, {
+    "name" : "thread",
+    "value" : "7096@DESKTOP-G9E0ME1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c2fb561bd41c2cf.json",
+  "parameterValues" : [ ]
+}

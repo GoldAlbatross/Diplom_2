@@ -1,0 +1,56 @@
+{
+  "uid" : "1a4c29c35041c928",
+  "name" : "createOrderWithInvalidHash",
+  "fullName" : "TestCreateOrder.createOrderWithInvalidHash",
+  "historyId" : "1b8d38c81e55fd45c12a1f7d5283b159",
+  "time" : {
+    "start" : 1739722715901,
+    "stop" : 1739722717632,
+    "duration" : 1731
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "TestCreateOrder"
+  }, {
+    "name" : "testMethod",
+    "value" : "createOrderWithInvalidHash"
+  }, {
+    "name" : "suite",
+    "value" : "TestCreateOrder"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-G9E0ME1"
+  }, {
+    "name" : "thread",
+    "value" : "7096@DESKTOP-G9E0ME1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a4c29c35041c928.json",
+  "parameterValues" : [ ]
+}

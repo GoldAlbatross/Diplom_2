@@ -1,0 +1,56 @@
+{
+  "uid" : "3df40d4917c5ba5d",
+  "name" : "getOrdersWithoutAuthorization",
+  "fullName" : "TestGetOrders.getOrdersWithoutAuthorization",
+  "historyId" : "974f652ed51bc11c8cb5399fd66708c6",
+  "time" : {
+    "start" : 1739722729102,
+    "stop" : 1739722731044,
+    "duration" : 1942
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "TestGetOrders"
+  }, {
+    "name" : "testMethod",
+    "value" : "getOrdersWithoutAuthorization"
+  }, {
+    "name" : "suite",
+    "value" : "TestGetOrders"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-G9E0ME1"
+  }, {
+    "name" : "thread",
+    "value" : "7096@DESKTOP-G9E0ME1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3df40d4917c5ba5d.json",
+  "parameterValues" : [ ]
+}
